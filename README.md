@@ -16,6 +16,11 @@ Then we created the DStreams to store the real time Twitter Data and process tha
 * Git/GitHub
 * kafka-python 2.0.2
 
+#Features
+ *Found the trending topics in twitter.
+ *Counted the in_reply_to_screen_names for some trending topics in india at that time.
+ *perfomed some analysis on #siddharth shukla.
+
 ## Requirements 
 One of the first requirements is to get access to the streaming data; in this case, real-time tweets. 
 Twitter provides a very convenient API to fetch tweets in a streaming manner.
